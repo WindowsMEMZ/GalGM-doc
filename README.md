@@ -116,6 +116,8 @@ GalGR是Galgame Generator Runtime 的简写（同样随意）。仅通过读取d
 - `*.gc`: Galgame Code的简写
 - `*.gef`: Galgame Encrypted Files的简写
 - `*.gds`: Galgame Debug Symbols的简写
+- `*.resg`: Resources for Galgame的简写
+- `*.wggproj`: WindowsMEMZ's GalGR Project File的简写
 ## 关于
 GalGM和GalGR均为WindowsMEMZ单人独立开发
 
@@ -124,6 +126,9 @@ Darock Studio以及域名darock.top属于WindowsMEMZ
 Visual Studio 是 Microsoft Corporation 的商标 (在多个国家或地区注册)
 
 ### 本项目使用的第三方库
+- [DockPanel Suite](https://github.com/dockpanelsuite/dockpanelsuite) by Weifen Luo
+- [SevenZipSharp](https://github.com/squid-box/SevenZipSharp) by squid-box(Forked from [tomap's](https://github.com/tomap/SevenZipSharp))
+- [ICSharpCode.Decompiler](https://github.com/icsharpcode/ILSpy/) by [ILSpy Contributors](https://github.com/icsharpcode/ILSpy/graphs/contributors)
 
 ### 加入我们
 若有意加入我们开发，请联系QQ: 3245146430
